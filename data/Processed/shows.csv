@@ -1,0 +1,688 @@
+show_id,title,releaseDate,rating,genres,metascore,metascore_count,userscore,userscore_count
+1,Planet Earth II,2016-11-06,TV-G,Documentary,96.0,10,92,242
+2,Homicide: Life on the Street,1993-01-31,TV-14,"Crime,Drama,Mystery,Thriller",95.0,20,83,116
+3,The Larry Sanders Show,1992-08-15,TV-MA,Comedy,95.0,69,61,220
+4,O.J.: Made in America,2016-05-20,TV-MA,"Documentary,Biography,Crime,History,Sport",96.0,21,71,44
+5,The Sopranos,1999-01-10,TV-MA,"Crime,Drama",94.0,93,93,2232
+6,Samurai Jack,2001-08-10,TV-MA,"Animation,Action,Adventure,Drama,Fantasy,Sci-Fi,Thriller",93.0,7,88,521
+7,Atlanta,2016-09-06,TV-MA,"Comedy,Drama,Music",92.0,99,83,932
+8,Romeo & Juliet,2021-04-04,,"Drama,Romance",92.0,7,55,11
+9,Fleabag,2016-07-21,TV-MA,"Comedy,Drama",92.0,40,83,929
+10,My So-Called Life,1994-08-25,TV-14,"Comedy,Drama,Romance",92.0,19,84,48
+11,Frozen Planet,2011-10-26,TV-PG,Documentary,91.0,15,87,54
+12,The Zen Diaries of Garry Shandling,2018-03-26,TV-MA,"Documentary,Biography,Comedy,Drama",90.0,9,71,10
+13,The Night Of,2016-06-24,TV-MA,"Crime,Drama,Mystery",90.0,40,87,624
+14,The Corner,2000-04-16,TV-MA,"Crime,Drama",90.0,21,80,24
+15,The Vietnam War,2017-09-17,TV-MA,"Documentary,History,War",90.0,19,82,80
+16,Olive Kitteridge,2014-09-02,TV-14,Drama,89.0,34,82,157
+17,Boomtown,2002-09-29,TV-MA,"Crime,Drama,Mystery,Thriller",89.0,31,58,12
+18,The Wire,2002-06-02,TV-MA,"Crime,Drama,Thriller",91.0,95,92,2709
+19,Murder One,1995-09-19,TV-14,"Crime,Drama,Mystery,Thriller",89.0,41,56,43
+20,The Americans,2013-01-30,TV-MA,"Crime,Drama,Mystery,Thriller",89.0,154,86,1967
+21,The Shield,2002-03-12,TV-MA,"Crime,Drama,Thriller",89.0,46,90,658
+22,Everybody Hates Chris,2005-09-22,TV-PG,"Comedy,Drama,Music",88.0,32,79,163
+23,The Roosevelts: An Intimate History,2014-09-14,TV-14,"Documentary,Biography,History,War",88.0,21,78,32
+24,Longford,2006-10-26,TV-MA,"Biography,Crime,Drama,Romance",88.0,14,93,4
+25,Better Things,2016-09-06,TV-MA,"Comedy,Drama",88.0,84,78,379
+26,Brooklyn Bridge,1991-09-20,TV-PG,"Comedy,Drama,Family",88.0,17,82,6
+27,Freaks and Geeks,1999-09-25,TV-14,"Comedy,Drama",88.0,26,89,199
+28,Barry,2018-03-25,TV-MA,"Action,Comedy,Crime,Drama",88.0,86,84,847
+29,Malcolm in the Middle,2000-01-09,TV-PG,"Comedy,Drama,Family",88.0,26,87,361
+30,Master of None,2015-11-06,TV-MA,"Comedy,Drama",87.0,73,78,968
+31,Springsteen on Broadway,2018-12-16,TV-MA,"Documentary,Music",87.0,8,70,6
+32,Catastrophe,2015-01-19,TV-MA,Comedy,87.0,47,80,319
+33,Mr. Show with Bob and David,1995-11-03,TV-14,Comedy,87.0,10,82,21
+34,Louie,2010-06-29,TV-MA,"Comedy,Drama",87.0,93,86,1266
+35,Felicity,1998-09-29,TV-14,"Drama,Romance",87.0,30,76,45
+36,Wolf Hall,2015-01-21,TV-14,"Biography,Drama,History",87.0,38,74,101
+37,The Simpsons,1989-12-17,TV-14,"Animation,Comedy",87.0,16,79,3054
+38,Ed,2000-10-08,,"Comedy,Drama",87.0,32,83,17
+39,Modern Family,2009-09-23,TV-PG,"Comedy,Drama,Romance",87.0,30,83,1436
+40,Breaking Bad,2008-01-20,TV-MA,"Crime,Drama,Thriller",87.0,98,94,18718
+41,Game of Thrones,2011-04-16,TV-MA,"Action,Adventure,Drama,Fantasy",86.0,171,84,19851
+42,Band of Brothers,2001-09-09,TV-MA,"Action,Drama,History,War",87.0,28,93,586
+43,The Pacific,2010-03-14,TV-MA,"Action,Adventure,Drama,History,War",86.0,32,82,214
+44,PEN15,2019-01-01,TV-MA,"Comedy,Drama",87.0,36,71,136
+45,Deadwood: The Movie,2019-05-31,TV-MA,"Drama,Western",86.0,29,72,53
+46,Justified,2010-03-16,TV-MA,"Action,Crime,Drama,Mystery,Thriller,Western",86.0,92,89,1586
+47,Prohibition,2011-10-02,,"Documentary,Crime,History",86.0,19,84,18
+48,Mad Men,2007-07-19,TV-14,Drama,86.0,199,88,2565
+49,Better Call Saul,2015-02-08,TV-MA,"Crime,Drama",86.0,139,90,4164
+50,The Trip to Bountiful,2014-03-08,TV-PG,Drama,86.0,12,0,1
+51,When They See Us,2019-05-31,TV-MA,"Biography,Crime,Drama,History",86.0,27,77,215
+52,American Crime,2015-03-05,TV-14,"Crime,Drama",86.0,87,77,306
+53,Succession,2018-05-06,TV-MA,"Comedy,Drama",86.0,111,86,778
+54,Transparent,2014-02-06,TV-MA,"Comedy,Drama",85.0,95,69,553
+55,Hemingway,2021-04-05,TV-14,"Documentary,Biography,History,War",85.0,14,69,15
+56,Pushing Daisies,2007-10-03,TV-PG,"Comedy,Drama,Fantasy,Musical,Mystery,Romance",85.0,44,85,118
+57,Six by Sondheim,2013-12-09,,"Documentary,Biography,History,Music",85.0,12,0,1
+58,The Beatles Anthology,2025-11-26,TV-14,"Documentary,Music",85.0,10,65,6
+59,Buffy the Vampire Slayer,1997-03-07,TV-14,"Action,Adventure,Drama,Fantasy,Horror,Romance",85.0,21,76,829
+60,Deadwood,2004-03-21,TV-MA,"Crime,Drama,History,Western",85.0,61,90,439
+61,Treme,2010-03-18,TV-MA,"Drama,Music",85.0,63,77,217
+62,House of Cards,1990-11-18,TV-14,Drama,85.0,11,80,34
+63,The Normal Heart,2014-05-25,TV-MA,"Biography,Drama,History,Romance",85.0,33,83,13
+64,Rescue Me,2004,TV-MA,"Comedy,Drama",85.0,100,79,157
+65,Wu-Tang Clan: Of Mics and Men,2019-05-10,TV-MA,"Documentary,Biography,Music",85.0,8,68,23
+66,A Very English Scandal,2018-05-20,TV-14,"Biography,Comedy,Crime,Drama,History",84.0,17,62,68
+67,Silicon Valley,2014-04-06,TV-MA,Comedy,84.0,79,85,1340
+68,Insecure,2016-10-09,TV-MA,"Comedy,Drama,Romance",84.0,69,69,267
+69,Full Frontal with Samantha Bee,2016-02-08,TV-MA,"Comedy,News,Talk-Show",84.0,16,36,249
+70,Russian Doll,2019-02-01,TV-MA,"Comedy,Drama,Mystery",84.0,51,77,485
+71,EZ Streets,1996-10-27,TV-14,"Crime,Drama,Romance",84.0,25,0,2
+72,Curb Your Enthusiasm,2000-10-14,TV-MA,Comedy,84.0,130,85,737
+73,Seinfeld,1989-07-05,TV-PG,Comedy,84.0,16,90,786
+74,MasterChef Junior,2013,TV-PG,"Family,Game-Show,Reality-TV",84.0,9,61,52
+75,Leaving Neverland,2019-03-03,TV-MA,Documentary,84.0,26,32,71
+76,Our Planet,2019-04-05,TV-PG,Documentary,84.0,14,89,102
+77,Fargo,2014-04-15,TV-MA,"Crime,Drama,Thriller",84.0,176,87,3141
+78,Rick & Morty,2013-12-02,TV-MA,"Animation,Adventure,Comedy,Sci-Fi",84.0,35,84,2864
+79,Sports Night,1998-09-22,TV-PG,"Comedy,Drama,Sport",84.0,20,84,5
+80,Monty Python: Almost the Truth (The Lawyer's Cut),2009-10-18,,"Documentary,Biography",84.0,8,79,14
+81,Lost,2004-09-22,TV-14,"Adventure,Drama,Fantasy,Mystery,Sci-Fi,Thriller",84.0,73,87,3105
+82,Extras,2005-07-21,TV-MA,"Comedy,Drama",83.0,50,85,120
+83,Twin Peaks,1990-04-08,TV-MA,"Crime,Drama,Mystery,Thriller",83.0,45,90,982
+84,The Kids in the Hall,1988-10-16,TV-PG,Comedy,83.0,7,51,11
+85,Whoopi Goldberg Presents Moms Mabley,,,"Documentary,Comedy",83.0,10,0,1
+86,Masters of Sex,2013-09-29,TV-MA,"Drama,Romance",83.0,69,76,482
+87,Jackie Robinson,2016-04-11,TV-PG,"Documentary,Biography",83.0,10,54,17
+88,Northern Exposure,1990-07-12,TV-PG,"Adventure,Comedy,Drama",83.0,19,75,46
+89,Behind the Candelabra,2013,TV-MA,"Biography,Drama,Music,Romance",83.0,30,72,10
+90,NYPD Blue,1993-09-21,TV-14,"Crime,Drama,Mystery,Thriller",83.0,24,89,10
+91,Surviving R. Kelly,2019-01-03,TV-14,"Documentary,Crime,Music",83.0,13,66,29
+92,Friday Night Lights,2006-10-03,TV-14,"Drama,Sport",83.0,88,85,382
+93,Boardwalk Empire,2010-09-19,TV-MA,"Crime,Drama",83.0,85,85,1596
+94,Big Mouth,2017-09-29,TV-MA,"Animation,Comedy,Romance",82.0,36,64,638
+95,L.A. Law,1986-09-15,TV-PG,Drama,83.0,11,74,10
+96,Veep,2012-04-22,TV-MA,Comedy,82.0,115,82,1021
+97,The Dust Bowl,2012-11-18,TV-PG,"Documentary,History",82.0,17,74,11
+98,The Honorable Woman,2014-07-03,,"Drama,Thriller",82.0,24,81,98
+99,The Tick,2001-11-01,TV-14,"Action,Comedy,Sci-Fi",82.0,26,81,22
+100,The Wonder Years,1988-01-31,TV-PG,"Comedy,Drama,Family,Romance",82.0,9,89,69
+101,At Home with Amy Sedaris,2017-10-24,TV-14,Comedy,82.0,8,80,13
+102,BoJack Horseman,2014-08-22,TV-MA,"Animation,Comedy,Drama",82.0,57,88,2826
+103,GLOW,2017-04-26,TV-MA,"Comedy,Drama,Sport",82.0,74,79,446
+104,Legion,2017-02-08,TV-MA,"Action,Sci-Fi,Thriller",82.0,56,81,907
+105,Chernobyl,2019-05-06,TV-MA,"Drama,History,Thriller",82.0,27,91,1410
+106,Louis C.K.: 2017,2017-04-04,TV-MA,Comedy,82.0,8,72,6
+107,Broad City,2014-01-22,TV-14,Comedy,82.0,39,77,441
+108,The Good Place,2016-09-19,TV-PG,"Comedy,Drama,Fantasy,Mystery,Romance",82.0,48,83,898
+109,The Missing,2014-10-28,TV-14,"Crime,Drama,Mystery",81.0,35,80,191
+110,Alias Grace,2017-09-25,TV-MA,"Biography,Crime,Drama,Thriller",81.0,30,71,112
+111,Jesus Christ Superstar Live in Concert,2018-04-01,TV-PG,"Drama,Musical",81.0,13,0,1
+112,Burton and Taylor,2013-07-22,,"Biography,Drama",81.0,17,0,3
+113,Top Of The Lake,2013-03-18,TV-MA,"Crime,Drama,Mystery,Thriller",81.0,48,72,236
+114,Jane the Virgin,2014-10-13,TV-PG,"Comedy,Drama",81.0,30,80,297
+115,Men of a Certain Age,2009,TV-MA,"Comedy,Drama",81.0,39,77,78
+116,A Raisin in the Sun,2008-02-25,,Drama,81.0,19,0,0
+117,The Good Wife,2009-09-22,TV-14,"Crime,Drama,Mystery",81.0,53,86,900
+118,Elizabeth I,2005-09-29,TV-MA,"Biography,Drama,History,Romance",81.0,21,0,3
+119,Homeland,2011-10-02,TV-MA,"Crime,Drama,Mystery,Thriller",81.0,143,80,3011
+120,Cheers,1982-09-30,TV-PG,"Comedy,Drama",81.0,17,88,91
+121,Years of Living Dangerously,2014-04-13,TV-PG,Documentary,81.0,7,67,18
+122,Five Came Back,2017-03-31,TV-14,"Documentary,Biography,History,War",81.0,13,74,25
+123,The Affair,2014-10-12,TV-14,Drama,81.0,58,76,420
+124,All The President's Men Revisited,2013-04-21,,Documentary,81.0,8,0,0
+125,Mindhunter,2017-10-13,TV-MA,"Crime,Drama,Mystery,Thriller",80.0,37,85,893
+126,Patrick Melrose,2018-05-12,TV-MA,Drama,80.0,32,63,195
+127,Girls,2012-04-15,TV-MA,"Comedy,Drama",80.0,113,64,919
+128,Generation Kill,2008-07-13,TV-MA,"Drama,War",80.0,27,87,108
+129,Mr. Robot,2015-06-24,TV-MA,"Crime,Drama,Thriller",80.0,66,86,2282
+130,Orange is the New Black,2013-07-11,TV-MA,"Comedy,Crime,Drama",80.0,152,80,2420
+131,The Handmaid's Tale,2017-04-25,TV-MA,"Drama,Sci-Fi,Thriller",80.0,119,73,1134
+132,Circus,2010-11,TV-PG,"Documentary,Reality-TV",80.0,10,47,7
+133,Crazy Ex-Girlfriend,2015-10-12,TV-14,"Comedy,Musical",80.0,36,80,354
+134,From the Earth to the Moon,1998-04-05,TV-14,"Action,Drama,History,Thriller",80.0,20,68,5
+135,Downton Abbey,2010-09-26,TV-PG,"Drama,Romance",80.0,141,82,900
+136,Documentary Now!,2015-08-20,TV-14,Comedy,80.0,42,68,76
+137,The Night Manager,2016-02-21,TV-14,"Crime,Drama,Mystery,Thriller",80.0,48,76,239
+138,Dream On,1990-07-08,TV-14,Comedy,80.0,8,76,7
+139,Unbreakable Kimmy Schmidt,2015-03-06,TV-14,Comedy,80.0,63,77,642
+140,The Good Fight,2017-02-19,TV-MA,"Crime,Drama",80.0,56,66,296
+141,24,2001-11-06,TV-14,"Action,Crime,Drama,Thriller",79.0,167,86,1141
+142,Archer,2009-09-17,TV-MA,"Animation,Action,Comedy",79.0,82,84,1450
+143,Frasier,1993-09-16,TV-PG,Comedy,79.0,24,85,235
+144,Dharma & Greg,1997-09-24,TV-PG,"Comedy,Romance",79.0,23,82,20
+145,Sesame Street,1969-07-21,TV-Y,"Animation,Adventure,Comedy,Drama,Family,Fantasy,Game-Show,Music,Musical,Talk-Show",79.0,9,26,69
+146,Enlightened,2011-10-10,TV-MA,"Comedy,Drama",79.0,29,73,229
+147,ER,1994-09-19,TV-14,"Drama,Romance",79.0,27,78,89
+148,State of the Union,2019-05-06,TV-MA,"Comedy,Drama,Romance",79.0,17,77,31
+149,Now and Again,1999-09-24,TV-14,"Adventure,Comedy,Drama,Sci-Fi",79.0,14,0,2
+150,The Walking Dead,2010-10-31,TV-MA,"Drama,Horror,Thriller",79.0,115,76,9861
+151,Bodyguard,2018-08-26,TV-MA,"Crime,Drama,Mystery,Thriller",79.0,12,74,209
+152,Manhattan,2014-07-27,TV-14,"Drama,History,War",79.0,32,80,137
+153,Stephen King's It,1990-11-18,TV-PG,"Drama,Horror,Mystery,Thriller",79.0,9,74,79
+154,Party of Five,1994-09-12,TV-PG,"Drama,Family",79.0,20,87,19
+155,This American Life,2007-03-22,TV-14,Documentary,79.0,40,18,5
+156,Project Greenlight,2001-12-02,TV-MA,"Documentary,Reality-TV",79.0,26,81,19
+157,Wild Wild Country,2018-03-16,TV-MA,"Documentary,Crime",79.0,8,77,70
+158,Joan of Arcadia,2003-09-25,TV-PG,"Comedy,Crime,Drama,Fantasy",79.0,34,88,5
+159,The Keepers,2017-05-19,TV-MA,"Documentary,Crime,Mystery",78.0,11,77,50
+160,Escape At Dannemora,2018-11-18,TV-MA,"Biography,Crime,Drama,Thriller",78.0,27,78,92
+161,Arrested Development,2003-11-02,TV-14,Comedy,78.0,102,88,1517
+162,Damages,2007-07-24,TV-MA,"Crime,Drama,Mystery,Thriller",78.0,81,83,298
+163,UnReal,2015-06-01,TV-MA,Drama,78.0,47,80,209
+164,The Knick,2014-08-08,TV-MA,"Drama,History",78.0,54,85,379
+165,Gideon's Crossing,2000-10-10,TV-PG,Drama,78.0,27,0,1
+166,Becoming Chaz,,,"Documentary,Biography",78.0,8,0,0
+167,Gilmore Girls,2000-10-05,TV-PG,"Comedy,Drama",78.0,55,82,273
+168,The West Wing,1999-09-21,TV-14,Drama,78.0,29,82,268
+169,Angie Tribeca,2016-01-17,TV-14,"Action,Comedy,Crime,Mystery",78.0,15,69,135
+170,The Marvelous Mrs. Maisel,2017-03-17,TV-MA,"Comedy,Drama",78.0,102,79,458
+171,Cancer: The Emperor of  All Maladies,2015-03-30,,Documentary,78.0,7,72,5
+172,Key & Peele,2012-01-31,TV-14,Comedy,78.0,20,74,186
+173,John Adams,2008-03-16,TV-14,"Biography,Drama,History",78.0,27,81,38
+174,Sharp Objects,2018-07-08,TV-MA,"Crime,Drama,Mystery,Thriller",78.0,41,73,300
+175,Big Little Lies,2017-02-19,TV-MA,"Crime,Drama,Mystery",78.0,78,83,521
+176,Project Runway,2004-12-01,TV-PG,Reality-TV,78.0,54,54,97
+177,Thurgood,2011-02-24,,Drama,78.0,9,0,0
+178,Broken Trail,2006-06-24,,"Action,Adventure,Drama,Western",78.0,30,43,7
+179,Horace and Pete,2016-01-30,TV-MA,"Comedy,Drama",78.0,12,84,160
+180,The Crown,2016-11-04,TV-MA,"Biography,Drama,History",78.0,181,83,904
+181,Grey Gardens,2009-04-18,TV-PG,"Biography,Drama",77.0,21,0,0
+182,Making a Murderer,2015-12-18,TV-14,"Documentary,Crime",77.0,34,90,507
+183,My Name Is Earl,2005-09-20,TV-PG,Comedy,77.0,60,84,174
+184,Black-ish,2014-09-24,TV-14,Comedy,77.0,34,61,162
+185,Amy Schumer: Live at the Apollo,2015-10-17,TV-MA,Comedy,77.0,9,43,12
+186,Life Support,2008-02-07,TV-MA,Drama,77.0,9,0,0
+187,Making It,2018-07-31,TV-PG,"Comedy,Reality-TV",77.0,14,51,11
+188,King of the Hill,1997-01-12,TV-MA,"Animation,Comedy,Drama",77.0,36,85,239
+189,Hannibal,2013-04-04,TV-14,"Crime,Drama,Horror,Mystery,Thriller",77.0,61,88,2294
+190,Chicago Hope,1994-09-18,TV-14,"Drama,Mystery,Thriller",77.0,22,70,6
+191,Southland,2009-04-09,TV-MA,"Crime,Drama,Thriller",77.0,59,86,310
+192,Crossfire Hurricane,2012-10-18,,"Documentary,Biography,Music",77.0,17,0,0
+193,Narcos,2015-08-28,TV-MA,"Biography,Crime,Drama,Thriller",77.0,43,87,1261
+194,The End of the F***ing World,2017-10-24,TV-MA,"Adventure,Comedy,Crime,Drama,Romance,Thriller",77.0,21,79,639
+195,Foo Fighters: Sonic Highways,2014-10-17,TV-MA,"Documentary,Music",77.0,11,81,36
+196,Taxi,1978-09-12,TV-PG,Comedy,77.0,17,79,9
+197,This Is Us,2016-09-19,TV-14,"Comedy,Drama,Romance",76.0,38,78,349
+198,Pose,2018-06-03,TV-MA,Drama,76.0,52,82,212
+199,Last Week Tonight with John Oliver,2014-04-27,TV-MA,"Comedy,News,Talk-Show",76.0,14,76,294
+200,Portlandia,2011-01-11,TV-14,Comedy,76.0,33,77,231
+201,Benjamin Franklin,2022-04-04,TV-14,"Documentary,Biography,History",76.0,8,67,6
+202,Dexter,2006-10-01,TV-MA,"Crime,Drama,Mystery,Thriller",76.0,103,81,6088
+203,In Treatment,2008-01-01,TV-MA,Drama,76.0,82,69,138
+204,Orphan Black,2013-03-30,TV-MA,"Drama,Sci-Fi,Thriller",76.0,70,84,1083
+205,Counterpart,2017-12-10,TV-MA,"Drama,Sci-Fi,Thriller",76.0,22,76,187
+206,Angel,1999-10-05,TV-14,"Action,Adventure,Drama,Fantasy,Thriller",76.0,22,75,204
+207,Marvel's Jessica Jones,2015-11-20,TV-MA,"Action,Crime,Drama,Sci-Fi,Thriller",76.0,58,76,1896
+208,Mozart in the Jungle,2014-02-06,TV-MA,"Comedy,Drama,Music",76.0,35,79,200
+209,Steel Magnolias,2012-10-07,TV-PG,"Comedy,Drama,Romance",76.0,15,0,2
+210,American Vandal,2017-09-05,TV-MA,"Comedy,Crime,Drama,Mystery",76.0,23,79,238
+211,The Leftovers,2014-06-29,TV-MA,"Drama,Fantasy,Mystery,Thriller",76.0,81,84,1762
+212,Raising Hope,2010-09-01,TV-PG,"Comedy,Family",76.0,24,80,224
+213,Richard Pryor: Omit the Logic,,,"Documentary,Biography",75.0,9,0,2
+214,Monk,2002-07-12,TV-PG,"Comedy,Crime,Drama,Mystery",75.0,22,82,196
+215,Halt and Catch Fire,2014-06-01,TV-14,Drama,75.0,59,85,521
+216,Without a Trace,2002-09-26,TV-14,"Action,Adventure,Crime,Drama,Mystery,Thriller",75.0,30,58,17
+217,F is for Family,2015-12-18,TV-14,"Animation,Comedy,Drama",75.0,14,81,222
+218,House,2004-11-15,TV-14,Drama,75.0,50,84,1139
+219,Ugly Betty,2006-09-28,TV-PG,"Comedy,Drama,Romance",75.0,58,76,75
+220,Spectacle: Elvis Costello With...,2008-12-03,,Music,75.0,26,22,5
+221,True Detective,2014-01-12,TV-MA,"Crime,Drama,Mystery,Thriller",75.0,165,77,4008
+222,Godless,2017-11-22,TV-MA,"Action,Drama,Western",75.0,25,72,244
+223,Bessie,2015-05-16,TV-MA,"Biography,Drama,Music",75.0,20,80,4
+224,Glee,2009-05-19,TV-PG,"Comedy,Drama,Music,Musical",75.0,38,72,971
+225,Sarah Silverman: We Are Miracles,2013-11-23,TV-MA,Comedy,75.0,7,0,2
+226,Smallville,2001-05-16,TV-PG,"Action,Adventure,Drama,Sci-Fi",75.0,29,75,574
+227,Killing Eve,2018-04-07,TV-14,"Action,Adventure,Drama,Thriller",75.0,74,78,629
+228,Sons of Anarchy,2008-09-03,TV-MA,"Crime,Drama,Thriller",75.0,73,82,1726
+229,Homecoming,2018-11-02,TV-MA,"Drama,Mystery,Thriller",75.0,56,70,189
+230,Alias,2001-09-30,TV-14,"Action,Drama,Mystery,Sci-Fi,Thriller",75.0,30,71,153
+231,Studio 60 on the Sunset Strip,2006-09-17,TV-14,"Comedy,Drama",75.0,33,84,34
+232,The Conners,2018-10-16,TV-PG,Comedy,75.0,26,36,108
+233,Restless,2015-05-15,,"Drama,Romance",75.0,12,0,0
+234,Grease: Live,2016-01-31,TV-14,"Comedy,Musical,Romance",75.0,23,0,1
+235,The Ben Stiller Show,1992-09-27,TV-PG,Comedy,75.0,13,0,2
+236,Luther,2010-05-04,TV-MA,"Crime,Drama,Mystery,Thriller",75.0,61,74,688
+237,Farscape,1999-03-19,TV-14,"Action,Adventure,Drama,Sci-Fi",75.0,14,83,155
+238,Will & Grace,1998-09-21,TV-PG,"Comedy,Romance",75.0,24,84,133
+239,Nurse Jackie,2009-06-08,TV-MA,"Comedy,Drama",75.0,70,77,190
+240,Everybody Loves Raymond,1996-09-13,TV-PG,Comedy,74.0,14,81,117
+241,Marvel's Luke Cage,2016-09-30,TV-MA,"Action,Crime,Drama,Sci-Fi,Thriller",74.0,43,78,1338
+242,Chappelle's Show,2003-01-22,TV-MA,"Comedy,Music",74.0,7,89,57
+243,Wild Things with Dominic Monaghan,2012-11-09,,Documentary,74.0,7,85,10
+244,Vikings,2013-03-03,TV-MA,"Action,Adventure,Drama,History,Romance,War",74.0,41,80,2049
+245,The Practice,1997-03-04,TV-14,"Crime,Drama,Mystery,Romance,Thriller",74.0,30,87,27
+246,George Harrison: Living in the Material World,2011-10-04,,"Documentary,Biography,Music",74.0,13,72,5
+247,Community,2009-09-16,TV-14,Comedy,74.0,76,87,2205
+248,The Blacklist,2013-09-23,TV-14,"Crime,Drama,Mystery,Thriller",74.0,32,77,896
+249,The Looming Tower,2018-02-28,TV-MA,"Drama,History",74.0,25,61,117
+250,Star Trek: Deep Space Nine,1993-01-03,TV-PG,"Action,Adventure,Drama,Sci-Fi,Thriller",74.0,14,84,328
+251,Elf: Buddy's Musical Christmas,2014-12-16,TV-G,"Animation,Unknown,Adventure,Comedy,Family,Fantasy,Musical,Romance",74.0,8,0,3
+252,Murphy Brown,1988-11-14,TV-PG,Comedy,74.0,18,40,98
+253,Last Resort,2012,TV-14,"Action,Drama,Mystery,Sci-Fi,Thriller",74.0,31,78,142
+254,Carrier,2008-04-27,,Documentary,74.0,12,0,3
+255,Scrubs,2001-10-01,TV-14,"Comedy,Drama",74.0,38,85,841
+256,The Electric Company,2009-01-19,TV-G,"Comedy,Family",74.0,16,45,4
+257,Ray Donovan,2013-06-18,TV-MA,"Crime,Drama",74.0,57,77,452
+258,Marvel's Agents of S.H.I.E.L.D,2013-09-24,TV-PG,"Action,Adventure,Sci-Fi,Thriller",74.0,38,74,1847
+259,Sinatra: All or Nothing at All,2015-04-05,TV-14,"Documentary,Biography,Music",74.0,11,67,12
+260,Six Feet Under,2001-06-03,TV-MA,"Comedy,Drama",74.0,31,89,657
+261,Elementary,2012-09-27,TV-14,"Action,Adventure,Crime,Drama,Mystery,Thriller",74.0,32,76,570
+262,Penny Dreadful,2014-04-28,TV-MA,"Drama,Fantasy,Horror",74.0,60,82,844
+263,Chuck,2007-09-24,TV-14,"Action,Comedy,Drama",74.0,51,84,708
+264,Stranger Things,2016-07-15,TV-MA,"Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",74.0,174,80,6253
+265,Cinema Verite,2011-04-23,TV-14,Drama,74.0,23,0,3
+266,The Fourth Estate,2018-05-27,TV-MA,"Documentary,History",74.0,12,42,13
+267,Game Change,2012-03-10,TV-MA,"Biography,Drama,History",74.0,25,72,5
+268,Big Love,2006-03-12,TV-MA,Drama,73.0,73,66,67
+269,Life On Mars,2008-10-09,TV-14,"Crime,Drama,Mystery,Sci-Fi",73.0,26,81,11
+270,The Act,2019-03-20,TV-MA,"Biography,Crime,Drama,Thriller",73.0,17,74,49
+271,The Jinx: The Life and Deaths of Robert Durst,2015-02-08,TV-14,"Documentary,Biography,Crime,Mystery",73.0,44,82,76
+272,Roseanne,1988-10-17,TV-PG,"Comedy,Drama",73.0,45,58,158
+273,The Writers' Room,2013-07-29,,"Unknown,Talk-Show",73.0,7,74,13
+274,30 Rock,2006-09-10,TV-14,Comedy,73.0,68,84,628
+275,Parade's End,2012-08-24,TV-MA,"Action,Drama,Romance,War",73.0,19,78,42
+276,Ally McBeal,1997-09-08,TV-PG,"Comedy,Drama,Romance",73.0,32,80,38
+277,The Sinner,2017-08-02,TV-MA,"Crime,Drama,Mystery,Thriller",73.0,48,69,310
+278,The Man in the High Castle,2015-01-15,TV-MA,"Drama,Sci-Fi,Thriller",73.0,46,76,632
+279,Terminator: The Sarah Connor Chronicles,2008-01-13,TV-PG,"Action,Drama,Fantasy,Sci-Fi,Thriller",73.0,28,74,126
+280,The Wiz Live!,2015-12-03,TV-G,"Adventure,Family,Fantasy,Musical",73.0,16,0,0
+281,Brexit,2019-01,TV-14,"Biography,Drama,History",73.0,12,59,15
+282,Star Trek: Discovery,2017-09-24,TV-14,"Action,Adventure,Drama,Sci-Fi",73.0,44,42,2404
+283,Bosch,2014-02-06,TV-MA,"Crime,Drama",73.0,35,80,390
+284,Oz,1997-07-12,TV-MA,"Crime,Drama,Thriller",73.0,19,85,272
+285,Flight of the Conchords,2007-06-17,TV-MA,"Comedy,Music,Musical",73.0,25,84,102
+286,Brooklyn Nine-Nine,2013-09-17,TV-14,"Comedy,Crime",73.0,53,81,1185
+287,Masters of Horror,2005-10-28,TV-MA,Horror,73.0,18,82,10
+288,Lois & Clark: The New Adventures of Superman,1993-09-12,TV-PG,"Adventure,Comedy,Drama,Romance,Sci-Fi",73.0,13,78,31
+289,Futurama,1999-03-28,TV-MA,"Animation,Adventure,Comedy,Sci-Fi",72.0,58,87,1103
+290,Schitt's Creek,2015-01-13,TV-14,Comedy,73.0,16,82,267
+291,Nip/Tuck,2003-07-22,TV-MA,Drama,72.0,103,77,112
+292,United States of Tara,2009-01-18,TV-MA,"Comedy,Drama,Romance",72.0,39,78,138
+293,High School Musical 2,2007-08-17,TV-G,"Comedy,Drama,Family,Music,Musical,Romance",72.0,23,73,25
+294,It's Always Sunny in Philadelphia,2005-08-04,TV-MA,Comedy,72.0,77,87,1602
+295,Baskets,2016-01-21,TV-MA,"Comedy,Drama",72.0,46,76,161
+296,Smash,2012-02-06,TV-14,"Comedy,Drama,Musical",72.0,55,70,151
+297,The Amazing Race,2001-09-05,TV-PG,"Adventure,Family,Game-Show,Reality-TV,Sport",72.0,31,68,125
+298,Confirmation,2016-04-16,TV-14,"Biography,Drama,History",72.0,25,0,2
+299,Marvel's Daredevil,2015-04-10,TV-MA,"Action,Crime,Drama,Sci-Fi,Thriller",72.0,41,89,3997
+300,The Last Man on Earth,2015-03-01,TV-14,"Action,Comedy,Drama,Romance,Sci-Fi",72.0,35,73,347
+301,M*A*S*H,1972-09-17,TV-PG,"Comedy,Drama,War",72.0,12,89,34
+302,War & Peace,2016-01-03,TV-14,"Drama,History,Romance,War",72.0,11,79,78
+303,Spin City,1996-09-17,TV-14,Comedy,72.0,25,76,27
+304,Top Chef,2006-02-15,TV-14,"Game-Show,Reality-TV",72.0,29,79,55
+305,PRIDE,2021-05-14,TV-MA,"Documentary,History",72.0,9,45,18
+306,American Gods,2017-03-01,TV-MA,"Drama,Fantasy,Mystery",72.0,49,70,498
+307,Spielberg,2017-10-07,TV-MA,"Documentary,Biography",72.0,15,45,6
+308,The Killing,2011-04-02,TV-14,"Crime,Drama,Mystery,Thriller",72.0,87,81,809
+309,Oliver Twist ,2007-12-18,TV-PG,"Drama,History",72.0,12,0,1
+310,I'll Fly Away,1991-10-07,,Drama,72.0,19,0,3
+311,Fringe,2008-09-09,TV-14,"Drama,Mystery,Sci-Fi,Thriller",72.0,47,86,1325
+312,The Young Indiana Jones Chronicles,1992-03-04,TV-G,"Action,Adventure,Family,Mystery",71.0,14,79,17
+313,FlashForward,2009-09-24,TV-14,"Drama,Mystery,Sci-Fi,Thriller",71.0,26,78,67
+314,Thief,2006-03-28,TV-MA,"Crime,Drama,Thriller",71.0,25,22,9
+315,The No. 1 Ladies' Detective Agency,2008-03-23,TV-PG,"Comedy,Crime,Drama,Family,Mystery",71.0,27,43,8
+316,Weeds,2005-08-07,TV-MA,"Comedy,Crime,Drama",71.0,85,75,598
+317,Mad About You,1992-09-23,TV-PG,"Comedy,Romance",71.0,21,84,10
+318,Bloodline,2015-03-20,TV-MA,"Drama,Thriller",71.0,43,77,358
+319,Westworld,2016-10-01,TV-MA,"Drama,Mystery,Sci-Fi",71.0,113,80,2288
+320,The Starter Wife,2007-05-31,,"Comedy,Drama,Romance",71.0,26,0,3
+321,The Middle,2009-09-30,TV-PG,"Comedy,Family",71.0,28,80,317
+322,"Murder, She Wrote",1984-09-30,TV-PG,"Crime,Drama,Mystery",71.0,20,88,45
+323,Caprica,2010-01-22,TV-14,"Action,Drama,Sci-Fi",71.0,20,76,55
+324,Desperate Housewives,2004-10-03,TV-14,"Comedy,Drama,Mystery,Romance",71.0,69,82,535
+325,The X Factor,2011-09,TV-PG,"Game-Show,Music,Reality-TV",71.0,8,59,113
+326,Vinyl,2016-02-14,TV-MA,"Drama,Music",71.0,39,71,160
+327,Nightmares & Dreamscapes: From the Stories of Stephen King,2006,TV-14,"Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",71.0,15,0,2
+328,"Live in Front of a Studio Audience: Norman Lear's ""All in the Family"" and ""The Jeffersons""",2019-05-22,TV-14,Comedy,71.0,9,0,0
+329,Strike Back,2010,TV-MA,"Action,Drama,Thriller,War",71.0,33,81,211
+330,The Paradise,2012,TV-PG,"Drama,History",71.0,9,75,24
+331,NewsRadio,1995-03-21,TV-14,"Comedy,Romance",70.0,23,73,15
+332,Survivor,2000-05-31,TV-PG,"Adventure,Game-Show,Reality-TV",70.0,13,66,505
+333,The White Queen,2013,TV-MA,"Drama,History,Romance,War",70.0,14,74,61
+334,Tracey Ullman's State of the Union,2008-03-30,TV-MA,Comedy,70.0,32,0,1
+335,Cobra Kai,2018-05-02,TV-14,"Action,Comedy,Drama,Sport",70.0,59,80,934
+336,My Next Guest Needs No Introduction With David Letterman,2018-01-12,TV-MA,Talk-Show,70.0,13,60,43
+337,Blue Bloods,2010-09-24,TV-14,"Crime,Drama,Mystery,Thriller",70.0,25,72,246
+338,24: Live Another Day,2014-05-05,TV-14,"Action,Crime,Drama,Mystery,Thriller",70.0,40,86,10
+339,Burn Notice,2007-06-28,TV-PG,"Action,Crime,Drama,Mystery,Thriller",70.0,38,79,353
+340,Rome,2005-08-28,TV-MA,"Action,Drama,Romance,War",70.0,43,88,346
+341,Gotham,2014-09-22,TV-14,"Action,Crime,Drama,Mystery,Sci-Fi,Thriller",70.0,44,75,1232
+342,Mrs. Harris,2006-02-25,TV-MA,Drama,70.0,21,0,1
+343,China Beach,1988-04-26,TV-14,"Drama,History,War",70.0,10,100,6
+344,Robin Hood,2006,TV-PG,"Action,Adventure,Comedy,Drama,Romance",70.0,18,80,33
+345,Human Target,2010-01-15,TV-14,"Action,Adventure,Crime,Drama,Thriller",70.0,39,80,51
+346,Tracey Ullman's Show,2016-01-11,TV-MA,Comedy,70.0,7,66,11
+347,Ozark,2017-07-21,TV-MA,"Crime,Drama,Thriller",69.0,83,81,922
+348,True Blood,2008-09-07,TV-MA,"Drama,Fantasy,Mystery,Romance,Thriller",69.0,110,74,1481
+349,The Mindy Project,2012-09-25,TV-14,Comedy,69.0,43,71,292
+350,The Borgias,2011-04-03,TV-MA,"Crime,Drama,History,Romance",69.0,35,79,274
+351,Rubicon,2010-06-13,TV-14,"Crime,Drama,Mystery,Thriller",69.0,28,80,106
+352,Clear History,2013-08-10,TV-MA,Comedy,69.0,17,0,1
+353,Law & Order,1990-09-13,TV-14,"Crime,Drama,Mystery,Thriller",69.0,38,87,129
+354,The Spoils of Babylon,2014-01-09,TV-14,Comedy,69.0,26,65,25
+355,And the Band Played On,1993-09-11,,"Drama,History",69.0,15,0,2
+356,The Fugitive,2000-10-06,TV-14,"Action,Drama,Mystery,Thriller",69.0,24,0,2
+357,Paterno,2018-04-07,TV-MA,"Biography,Crime,Drama,Sport",69.0,19,62,5
+358,Boston Legal,2004-10-03,TV-14,"Comedy,Crime,Drama",69.0,22,82,76
+359,Mildred Pierce,2011-03-27,TV-MA,"Crime,Drama,Mystery",69.0,28,74,50
+360,Cybill,1995-01-02,TV-PG,Comedy,69.0,21,79,13
+361,Mom,2013-09-23,TV-14,"Comedy,Drama,Romance",69.0,34,74,315
+362,Bates Motel,2013-03-18,TV-MA,"Drama,Horror,Mystery,Thriller",69.0,61,83,857
+363,Soul Food,2000-06-28,TV-14,Drama,69.0,20,85,6
+364,How I Met Your Mother,2005-09-19,TV-14,"Comedy,Drama,Romance",69.0,46,80,2766
+365,11.22.63,2016,TV-MA,"Drama,Mystery,Romance,Sci-Fi,Thriller",69.0,35,80,269
+366,CSI: Miami,2002-09-23,TV-14,"Action,Crime,Drama,Mystery,Thriller",69.0,32,55,104
+367,The 4400,2004-07-11,TV-14,"Drama,Mystery,Sci-Fi,Thriller",69.0,11,77,49
+368,Dead to Me,2019-05-03,TV-MA,"Comedy,Crime,Drama",68.0,38,77,153
+369,The Riches,2007-03-12,TV-MA,"Comedy,Crime,Drama",68.0,39,58,17
+370,Nikita,2010-09-09,TV-14,"Action,Crime,Drama,Mystery,Thriller",69.0,30,76,263
+371,The Closer,2005-06-13,TV-14,"Crime,Drama,Mystery",68.0,33,81,114
+372,Bette,2000-10-11,TV-PG,Comedy,68.0,17,0,1
+373,Sleeper Cell,2005-10,TV-MA,"Crime,Drama,Thriller",68.0,46,60,8
+374,Kidnapped,2006-09-20,TV-14,"Crime,Drama",68.0,27,0,3
+375,Hatfields & McCoys,2012-05-28,TV-14,"Drama,History,Romance,War,Western",68.0,20,78,38
+376,American Dreams,2002-09-29,TV-PG,"Drama,Family,History,Music,Romance,War",68.0,20,0,1
+377,My Dinner with Herve,2018-10-20,TV-MA,"Biography,Drama",68.0,10,0,1
+378,Ethel,2013-04-12,,"Documentary,Biography,Drama,History",68.0,12,0,0
+379,Seven Seconds,2018-02-23,TV-MA,"Crime,Drama",68.0,20,68,50
+380,Falling Skies,2011-06,TV-14,"Action,Adventure,Drama,Sci-Fi,Thriller",68.0,43,62,658
+381,How to Get Away With Murder,2014-09-25,TV-14,"Crime,Drama,Mystery,Thriller",68.0,31,78,752
+382,The Big C,2010-08-16,TV-MA,"Comedy,Drama",68.0,47,66,135
+383,The Kominsky Method,2018-11-16,TV-MA,"Comedy,Drama",68.0,23,76,95
+384,A Very Murray Christmas,2015-12-04,TV-MA,"Comedy,Music,Musical",68.0,18,0,3
+385,Pan Am,2011-09-25,TV-PG,"Drama,History,Romance",68.0,28,74,89
+386,The Young Pope,2016-10-11,TV-MA,Drama,68.0,38,76,213
+387,Fosse/Verdon,2019-04-09,TV-MA,"Biography,Drama,Music",68.0,36,74,35
+388,Family Ties,1982-09-22,TV-G,"Comedy,Drama,Family",68.0,17,82,10
+389,Vegas,2012-09-25,,"Action,Crime,Drama,Mystery,Western",68.0,30,66,56
+390,Moby Dick,2011-05-08,,"Adventure,Drama",68.0,7,86,5
+391,Special,2019-04-12,TV-MA,"Comedy,Drama",67.0,10,69,42
+392,Nightingale,,,"Crime,Drama",67.0,13,0,0
+393,New Girl,2011-09-20,TV-14,"Comedy,Romance",67.0,29,78,742
+394,That's Life,2000-10-01,TV-14,"Drama,Comedy",67.0,19,0,1
+395,Virtuality,2009-06-26,,"Drama,Sci-Fi,Thriller",67.0,12,0,1
+396,Entourage,2004-07-18,TV-MA,"Comedy,Drama",67.0,82,77,350
+397,Two and a Half Men,2003-09-22,TV-14,"Comedy,Romance",67.0,32,63,1030
+398,Vice,2013-04-05,TV-MA,"Documentary,News",67.0,12,67,29
+399,Parks and Recreation,2009-04-09,TV-14,Comedy,67.0,46,85,1632
+400,Copper ,2012-08-06,TV-MA,"Action,Drama",67.0,30,74,57
+401,Inside Amy Schumer,2013-04-30,TV-14,Comedy,67.0,33,49,222
+402,The Flash,1990-09-20,TV-PG,"Action,Crime,Fantasy,Sci-Fi",67.0,9,71,40
+403,The Late Late Show with James Corden,2015-03-23,TV-14,"Comedy,Talk-Show",67.0,20,54,69
+404,Saving Grace,2007-07-23,TV-MA,"Crime,Drama,Fantasy,Mystery",67.0,39,66,17
+405,Too Big To Fail,2011-05-23,TV-MA,"Biography,Drama",67.0,17,76,5
+406,Casanova,2005-03-13,TV-MA,"Biography,Comedy,Drama,History,Romance",67.0,7,70,5
+407,Web Therapy,2011-07-19,TV-14,Comedy,67.0,17,70,58
+408,The Company,2007-08-05,TV-14,"Drama,History,Romance,Thriller",67.0,23,78,4
+409,Dirty Sexy Money,2007-09-26,TV-PG,Drama,67.0,34,78,10
+410,Taboo,2017-01-07,TV-MA,"Drama,Mystery,Thriller",67.0,32,83,373
+411,Good Omens,2019-05-27,TV-MA,"Comedy,Drama,Fantasy",67.0,37,74,343
+412,The Tonight Show with Conan O'Brien,2009-06-01,TV-14,"Comedy,Music,Talk-Show",67.0,12,78,16
+413,Huff,2004-11-07,TV-MA,"Comedy,Drama",67.0,26,44,8
+414,The Wizard of Lies,2017-05-20,TV-MA,"Biography,Crime,Drama",67.0,26,65,8
+415,The Marshal,1995-01-31,,"Action,Crime,Drama",66.0,9,0,0
+416,Sense8,2015-06-05,TV-MA,"Drama,Mystery,Sci-Fi,Thriller",66.0,32,82,1102
+417,Once Upon a Time,2011-10-23,TV-PG,"Adventure,Fantasy,Romance",66.0,31,76,1107
+418,Cold Case,2003-09-28,TV-14,"Crime,Drama,Mystery,Thriller",66.0,25,72,73
+419,The Case Against Adnan Syed,2019-03-10,TV-14,"Documentary,Crime",66.0,16,49,16
+420,Hairspray Live!,2016-12-07,TV-PG,"Comedy,Drama,Musical,Romance",66.0,14,0,0
+421,The Girl,2012-10-20,TV-14,"Biography,Drama",66.0,21,0,1
+422,Just Shoot Me,1997,TV-14,Comedy,66.0,25,80,16
+423,Hawaii Five-0,2010-09-20,TV-14,"Action,Adventure,Comedy,Crime,Drama,Mystery,Romance,Thriller",66.0,29,70,330
+424,Fyre Fraud,2019-01-14,TV-MA,Documentary,66.0,12,73,7
+425,Star Trek: Voyager,1995-01-16,TV-PG,"Action,Adventure,Drama,Sci-Fi,Thriller",66.0,10,79,289
+426,Recount,2008-05-25,TV-MA,"Drama,History",66.0,25,0,2
+427,Banshee,2013-01-11,TV-MA,"Action,Crime,Drama,Mystery,Thriller",66.0,29,82,685
+428,Eureka,2006-07-18,TV-14,"Adventure,Comedy,Drama,Romance,Sci-Fi",66.0,46,77,139
+429,The Office,2005-03-24,TV-14,Comedy,66.0,51,84,2314
+430,Da Ali G Show,2000-03-30,TV-MA,Comedy,66.0,16,74,8
+431,Person of Interest,2011-09-22,TV-14,"Action,Crime,Drama,Mystery,Sci-Fi,Thriller",66.0,28,88,981
+432,2 Broke Girls,2011-09-19,TV-14,Comedy,66.0,26,63,516
+433,Canterbury's Law,2008-03-10,TV-14,Drama,66.0,27,0,1
+434,Home Improvement,1991-09-17,TV-PG,"Comedy,Family",66.0,25,78,72
+435,"Sabrina, the Teenage Witch",1996-09-27,TV-G,"Action,Adventure,Comedy,Drama,Family,Fantasy,Horror,Mystery,Romance,Sci-Fi",66.0,17,59,112
+436,The Tudors,2007-04-01,TV-MA,"Drama,History,Romance,War",66.0,55,74,172
+437,Bored to Death,2009-09-20,TV-MA,"Comedy,Crime,Drama,Mystery,Thriller",66.0,31,77,105
+438,Law & Order: Special Victims Unit,1999-09-20,TV-14,"Crime,Drama,Mystery,Thriller",66.0,27,82,265
+439,Hot in Cleveland,2010-06-16,TV-PG,Comedy,66.0,28,66,63
+440,Tom Clancy's Jack Ryan,2018-08-31,TV-MA,"Action,Crime,Drama,Thriller",66.0,42,66,363
+441,Star Trek: Enterprise,2001-09-25,TV-PG,"Action,Adventure,Drama,Sci-Fi",66.0,18,74,229
+442,Scandal,2012-04-05,TV-14,"Drama,Thriller",66.0,33,73,426
+443,The Defenders,2010-09-22,,"Comedy,Crime,Drama",65.0,19,75,33
+444,The X-Files,1993-09-10,TV-14,"Adventure,Crime,Drama,Mystery,Sci-Fi,Thriller",65.0,72,81,1273
+445,Muhammad Ali's Greatest Fight,,TV-14,"Biography,Drama",65.0,7,0,1
+446,Blindspot,2015-09-21,TV-14,"Action,Crime,Drama,Mystery,Sci-Fi,Thriller",65.0,34,69,293
+447,Hung,2009-06-28,TV-MA,"Comedy,Drama",65.0,35,71,75
+448,American Horror Story,2011-10-05,TV-MA,"Drama,Horror,Sci-Fi,Thriller",65.0,173,75,4615
+449,The Mentalist,2008-09-23,TV-14,"Crime,Drama,Mystery,Thriller",65.0,52,83,618
+450,The Tonight Show Starring Jimmy Fallon,2014-02-17,TV-14,"Comedy,Music,Talk-Show",65.0,19,59,111
+451,The River,2012-02-07,TV-14,"Action,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",65.0,29,62,92
+452,The Bronx Is Burning,2007-07,,"Drama,Sport",65.0,15,0,2
+453,Leah Remini: Scientology and the Aftermath,2016-11-29,TV-14,"Documentary,History,Mystery",65.0,9,78,35
+454,"Love, Death & Robots",2019-03-15,TV-MA,"Animation,Unknown,Action,Adventure,Comedy,Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",65.0,9,78,674
+455,Dancing on the Edge,2013-02-04,TV-MA,Drama,65.0,14,71,8
+456,Tidying Up with Marie Kondo,2019-01-01,TV-PG,Reality-TV,65.0,9,52,18
+457,Warehouse 13,2009-07-07,TV-14,"Adventure,Drama,Mystery,Sci-Fi,Thriller",65.0,27,77,140
+458,The Colbert Report,2005-10-17,TV-14,"Comedy,News,Talk-Show",65.0,44,83,135
+459,Political Animals,2012-07-15,TV-14,Drama,65.0,33,73,51
+460,Friends,1994-09-22,TV-PG,"Comedy,Romance",65.0,24,87,2250
+461,The Soul Man,2012-06-20,TV-PG,Comedy,65.0,9,42,5
+462,Dave's World,1993-09-20,TV-14,Comedy,64.0,15,0,0
+463,Christy,1994-04-03,TV-PG,"Drama,Family,History",65.0,20,0,0
+464,Altered Carbon,2018-02-02,TV-MA,"Action,Adventure,Drama,Sci-Fi",64.0,33,72,1001
+465,Parenthood  ,2010-03-02,TV-14,"Comedy,Drama",64.0,39,85,189
+466,The 100,2014-03-19,TV-14,"Action,Drama,Sci-Fi",64.0,34,66,1576
+467,Lie to Me,2009-01-21,TV-14,"Crime,Drama,Mystery,Thriller",64.0,25,81,196
+468,The Drew Carey Show,1995-09-13,TV-14,Comedy,64.0,15,92,15
+469,The Sarah Silverman Program,2007-02-01,TV-14,Comedy,64.0,44,59,17
+470,Titus,2000-03-20,TV-PG,"Comedy,Drama",64.0,22,95,6
+471,Sleepy Hollow,2013-09-16,TV-14,"Action,Adventure,Crime,Drama,Fantasy,Horror,Mystery,Thriller",64.0,31,75,354
+472,Heroes,2006-09-25,TV-14,"Crime,Drama,Fantasy,Mystery,Sci-Fi,Thriller",64.0,44,66,497
+473,Californication,2007-08-13,TV-MA,"Comedy,Drama",64.0,50,78,623
+474,Dancing With the Stars,2005-06-01,TV-PG,"Family,Music,Reality-TV",64.0,10,49,82
+475,Grey's Anatomy,2005-03-27,TV-14,"Drama,Romance",64.0,51,78,1039
+476,The Comeback,2005-06-05,TV-MA,Comedy,64.0,49,78,84
+477,South Park,1997-08-13,TV-MA,"Animation,Comedy",64.0,19,83,2670
+478,The New Adventures of Old Christine,2006-03-13,TV-PG,Comedy,64.0,52,85,50
+479,Hell on Wheels,2011-11-06,TV-14,"Drama,Western",64.0,44,81,381
+480,The Immortal Life of Henrietta Lacks,2017-04-22,TV-MA,"Biography,Drama,History,Mystery",64.0,22,0,2
+481,The Umbrella Academy,2019-02-15,TV-14,"Action,Adventure,Comedy,Drama,Fantasy,Sci-Fi",64.0,55,68,816
+482,Sex and the City,1998-05-06,TV-PG,"Comedy,Drama,Romance",64.0,27,76,194
+483,That '70s Show,1998-08-23,TV-14,"Comedy,Drama,Romance",63.0,19,81,268
+484,The L Word,2004-01-18,TV-MA,"Drama,Romance",63.0,25,66,61
+485,Galavant,2015-01-04,TV-PG,"Adventure,Comedy,Fantasy,Musical",64.0,30,76,173
+486,Armistead Maupin's Tales of the City,2019-06-07,TV-MA,Drama,63.0,15,71,28
+487,Girl Meets World,2014-06-27,TV-G,"Comedy,Drama,Family,Music",64.0,10,72,93
+488,Revolution,2012,TV-14,"Action,Adventure,Drama,Romance,Sci-Fi,Thriller",63.0,33,61,430
+489,Derek,2012-04-12,TV-MA,"Comedy,Drama",63.0,19,83,103
+490,MasterChef,2010-07-27,TV-14,"Game-Show,Reality-TV",63.0,8,62,81
+491,Marvel's The Defenders,2017-08-18,TV-MA,"Action,Adventure,Crime,Fantasy,Sci-Fi",63.0,30,70,531
+492,Firefly,2002-09-20,TV-14,"Adventure,Drama,Sci-Fi",63.0,30,88,557
+493,Mob City,2013-12-04,TV-MA,"Crime,Drama,Mystery,Thriller",63.0,34,81,75
+494,New Amsterdam,2008-03-04,TV-14,"Crime,Drama,Sci-Fi",63.0,50,65,13
+495,House of Lies,2012-01-08,TV-MA,"Comedy,Drama",63.0,28,62,178
+496,Carnivale,2003-09-14,TV-MA,"Drama,Fantasy,Mystery,Thriller",63.0,39,85,98
+497,Da Vinci's Demons,2013,TV-MA,"Adventure,Biography,Drama,Fantasy,History,Mystery,Romance",63.0,32,75,260
+498,American Idol,2002-06-11,TV-PG,"Documentary,Game-Show,Music,Reality-TV",63.0,33,42,212
+499,JAG,1995-09-23,TV-14,"Action,Crime,Drama,Mystery,Thriller",63.0,19,70,16
+500,Touch,2012-01-25,TV-PG,"Drama,Mystery,Sci-Fi",63.0,33,69,129
+501,The World Wars,2014-05-26,TV-14,"Documentary,History,War",62.0,7,41,24
+502,Mike & Molly,2010-09-20,TV-14,"Comedy,Romance",62.0,26,64,171
+503,Fantasy Island,2021-08-10,TV-14,"Adventure,Drama,Fantasy,Mystery",62.0,8,31,13
+504,Black.  White.,2006-03-08,TV-MA,"Drama,Reality-TV",62.0,22,0,2
+505,The Ricky Gervais Show,2010-02-19,TV-MA,"Animation,Comedy,Talk-Show",62.0,18,90,45
+506,The Real O'Neals,2016-03-02,TV-PG,"Comedy,Drama,Musical",62.0,25,70,51
+507,Naked & Afraid,2013-06-23,TV-14,"Adventure,Game-Show,Horror,Reality-TV",62.0,9,64,46
+508,Moonlighting,1985-03-03,TV-PG,"Comedy,Drama,Mystery,Romance",62.0,20,80,12
+509,Almost Human,2013,TV-14,"Action,Crime,Drama,Sci-Fi",62.0,30,85,318
+510,Fleming: The Man Who Would Be Bond,2014-01-29,TV-MA,"Biography,Drama,Romance",62.0,22,73,23
+511,House of Saddam,2008,TV-MA,"Biography,Drama,History,War",62.0,13,0,3
+512,Everwood,2002-09-16,TV-PG,Drama,62.0,27,86,11
+513,A Christmas Story Live!,2017-12-17,TV-PG,Musical,61.0,11,0,2
+514,Designing Women,1986-09-29,TV-PG,Comedy,61.0,8,78,4
+515,Quantum Leap,1989-03-26,TV-PG,"Action,Adventure,Drama,History,Mystery,Sci-Fi",61.0,7,84,44
+516,The Unit,2006,TV-PG,"Action,Drama,Thriller,War",61.0,50,88,38
+517,Late Night with Seth Meyers,2014-02-24,TV-14,"Comedy,Talk-Show",61.0,20,32,103
+518,Happy Endings,2011-04-13,TV-14,"Comedy,Romance",61.0,27,79,190
+519,CSI: NY,2004-09-21,TV-14,"Action,Crime,Drama,Mystery,Thriller",61.0,27,38,71
+520,The Whispers,2015-06-01,TV-14,"Drama,Horror,Mystery,Sci-Fi,Thriller",61.0,21,63,64
+521,The Voice ,2011-04-26,TV-PG,"Game-Show,Music,Reality-TV",61.0,9,66,262
+522,Cop Rock,1990-09-26,,"Comedy,Drama,Musical",61.0,15,0,1
+523,The Newsroom,2012-06-24,TV-MA,Drama,61.0,67,81,776
+524,The Big Bang Theory,2007-09-24,TV-PG,"Comedy,Romance",61.0,50,75,3283
+525,Defiance,2013-04-15,TV-MA,"Action,Drama,Sci-Fi",61.0,20,75,344
+526,Stephen King's The Shining,1997-04-27,TV-14,"Drama,Fantasy,Horror,Thriller",61.0,14,45,4
+527,Stephen King's The Stand,1994-05-08,TV-14,"Adventure,Drama,Fantasy,Horror,Sci-Fi",61.0,17,74,22
+528,Around the World in 80 Days,2021-12-11,TV-14,"Adventure,Comedy,History",61.0,16,43,40
+529,Pioneers of Television,2008-01-02,TV-PG,"Documentary,History",60.0,7,0,0
+530,Undercover Boss,2010-02-07,TV-PG,Reality-TV,60.0,15,56,7
+531,Picket Fences,1992-09-18,,"Crime,Drama,Family,Mystery,Romance",60.0,17,83,12
+532,V,2009-11-03,TV-14,"Drama,Sci-Fi,Thriller",60.0,36,67,106
+533,Little Britain USA,2008-09-28,TV-MA,Comedy,60.0,17,64,11
+534,Medium,2005-01-03,TV-14,"Crime,Drama,Fantasy,Mystery,Thriller",60.0,35,90,48
+535,Shark Tank,2009-08-08,TV-PG,"Family,Game-Show,Reality-TV",60.0,12,80,50
+536,Phil Spector,2013-03-24,TV-MA,"Biography,Drama,Music",60.0,30,0,3
+537,Shark,2006-09-21,TV-14,"Crime,Drama,Mystery",60.0,52,74,5
+538,The Alienist,2018-01-21,TV-MA,"Crime,Drama,Mystery",60.0,31,64,159
+539,13 Reasons Why,2017-03-31,TV-MA,"Drama,Mystery,Thriller",60.0,38,64,1460
+540,Supernatural,2005-09-13,TV-14,"Drama,Fantasy,Horror,Mystery,Thriller",60.0,48,83,2894
+541,Bob's Burgers,2011-01-09,TV-14,"Animation,Comedy",60.0,27,75,513
+542,Psych,2006-07-07,TV-PG,"Comedy,Crime,Mystery",60.0,41,85,493
+543,Samantha Who?,2007-10-15,TV-PG,"Comedy,Mystery,Romance",59.0,50,73,12
+544,Black Sails,2014-01-25,TV-MA,"Action,Adventure,Drama",59.0,33,78,796
+545,Against The Wall,2011-07-31,,"Crime,Drama",59.0,10,80,8
+546,The Class,2006-09-18,TV-14,"Comedy,Romance",59.0,27,0,3
+547,The Fresh Prince of Bel-Air,1990-09-10,TV-PG,Comedy,59.0,13,85,145
+548,Prison Break,2005-08-29,TV-14,"Action,Crime,Drama,Mystery,Thriller",59.0,55,78,1456
+549,NCIS: Los Angeles,2009-09-22,TV-14,"Action,Adventure,Comedy,Crime,Drama,Mystery,Romance,Thriller",59.0,24,59,235
+550,Who Is America?,2018-07-15,TV-MA,Comedy,59.0,22,69,121
+551,Grace and Frankie,2015-05-08,TV-MA,"Comedy,Drama",58.0,38,76,286
+552,Grimm,2011-10-28,TV-14,"Action,Adventure,Crime,Drama,Fantasy,Mystery,Thriller",58.0,30,79,745
+553,Camelot,2011-02-25,TV-MA,"Drama,Fantasy",58.0,26,52,53
+554,The Lost Room,2006-12-11,TV-PG,"Action,Fantasy,Mystery,Sci-Fi",58.0,17,82,44
+555,Treasure Island,2012-01-01,,"Action,Adventure,Drama,Mystery,Thriller",58.0,7,46,5
+556,Stargate Universe,2009-10-02,TV-PG,"Drama,Sci-Fi",58.0,10,72,229
+557,Bones,2005-09-13,TV-14,"Crime,Drama,Mystery",58.0,44,73,485
+558,Sliders,1995-03-22,TV-PG,"Adventure,Fantasy,Sci-Fi",58.0,15,77,42
+559,Eyewitness,2016-10-16,TV-14,"Crime,Mystery,Romance,Thriller",58.0,11,75,56
+560,Family Guy,1999-01-31,TV-14,"Animation,Comedy",58.0,39,66,2145
+561,Who Do You Think You Are?,2010-03-05,,"Documentary,Biography,History",58.0,18,0,3
+562,Drunk History,2013-07-09,TV-14,"Comedy,History",57.0,14,63,54
+563,The Apprentice,2004-01-08,TV-PG,"Game-Show,Reality-TV",57.0,54,46,126
+564,Workaholics,2011-01-01,TV-14,Comedy,57.0,9,77,203
+565,Beggars and Choosers,1999-06-19,TV-MA,Comedy,57.0,17,0,2
+566,Wings,1990-04-19,TV-PG,"Comedy,Drama",57.0,9,88,19
+567,Magic City,2012,TV-MA,"Crime,Drama",57.0,32,76,48
+568,Law & Order True Crime: The Menendez Murders,2017,TV-14,"Crime,Drama,Mystery,Thriller",57.0,29,62,26
+569,Merlin,2008-09-20,TV-PG,"Adventure,Drama,Fantasy",57.0,17,79,274
+570,The Comedians,2015-04-09,,Comedy,57.0,30,62,33
+571,SEAL Team,2017-09-26,TV-14,"Action,Drama,War",57.0,16,68,126
+572,The Last Tycoon,2016-06-17,TV-MA,Drama,57.0,30,67,27
+573,Black Monday,2019-01-20,TV-MA,Comedy,57.0,29,70,34
+574,Superior Donuts,2017-02-02,TV-PG,Comedy,56.0,22,43,37
+575,Tyrant,2014-06-24,TV-14,"Action,Drama,Thriller",56.0,44,78,204
+576,Falcone,2000-04-04,TV-14,"Crime,Drama",56.0,28,0,0
+577,The Ranch,2016-04-01,TV-MA,"Comedy,Western",56.0,20,75,171
+578,Vice Principals,2016-07-17,TV-MA,Comedy,56.0,34,77,115
+579,Killing Lincoln,2013-02-17,,"Biography,Drama,History,War",56.0,15,0,3
+580,Castle,2009,TV-14,"Comedy,Crime,Drama,Mystery,Romance",56.0,46,82,776
+581,Commander in Chief,2005-09-27,TV-PG,Drama,56.0,26,0,2
+582,Wiseguy,1987-09-16,TV-14,"Crime,Drama,Mystery",56.0,7,58,4
+583,Tales from the Crypt,1989-06-10,TV-MA,"Comedy,Crime,Fantasy,Horror,Mystery,Thriller",56.0,9,79,36
+584,Sanctuary,2008-10-03,TV-14,"Action,Drama,Fantasy,Mystery,Sci-Fi",56.0,14,80,46
+585,Waco,2018-01-24,TV-14,"Crime,Drama,History,Thriller",56.0,15,60,70
+586,Jericho,2006-09-20,TV-14,"Action,Drama,Mystery,Sci-Fi",56.0,44,81,135
+587,Babylon 5,1993-02-22,TV-PG,"Action,Adventure,Drama,Sci-Fi",55.0,13,88,176
+588,Marvel's The Punisher,2017-11-17,TV-MA,"Action,Crime,Drama,Thriller",55.0,26,80,1244
+589,Killing Kennedy,2013-11-10,TV-MA,"Biography,Drama,History,Thriller",55.0,13,0,3
+590,Once Upon a Mattress,2005-12-08,TV-PG,"Comedy,Musical,Romance",55.0,15,0,0
+591,The Cleveland Show,2009-09-27,TV-14,"Animation,Adventure,Comedy",55.0,18,52,169
+592,The King of Queens,1998-09-21,TV-PG,Comedy,55.0,26,86,118
+593,Peter Pan Live!,2014-12-04,,"Adventure,Family,Fantasy,Musical",55.0,21,0,0
+594,The Others,2000-02-05,TV-14,"Drama,Horror,Mystery,Sci-Fi",55.0,20,0,0
+595,The Secret Life of Marilyn Monroe,2015-04-30,TV-MA,Biography,55.0,12,0,3
+596,The Guardian,2001-09-25,TV-14,"Crime,Drama",55.0,27,99,7
+597,The Cape,2011-01-09,TV-14,"Action,Drama",54.0,25,65,88
+598,Hemingway and Gellhorn,2012-05-28,TV-MA,"Biography,Drama,Romance",54.0,22,0,0
+599,The District,2000-10-07,TV-14,"Comedy,Crime,Drama",54.0,21,0,2
+600,Coco Chanel,2008-09-13,,"Biography,Drama",54.0,11,0,0
+601,Into the Badlands,2015-11-13,TV-14,"Action,Adventure,Drama,Fantasy",54.0,34,82,354
+602,Human Trafficking,2005-10-24,,"Crime,Drama,Mystery,Thriller",54.0,14,34,12
+603,SEAL Team Six: The Raid on Osama bin Laden,2012-11-04,,"Action,Crime,Drama,Thriller",54.0,13,63,4
+604,The Pee-wee Herman Show on Broadway,2011-03-19,TV-PG,Comedy,54.0,13,0,0
+605,Bonnie & Clyde,2013-12-08,TV-14,"Biography,Crime,Drama,History,Thriller",54.0,23,55,19
+606,The Putin Interviews,2017-06-12,TV-PG,"Documentary,Biography",54.0,8,64,50
+607,Tin Man,2007-12-02,TV-PG,"Adventure,Fantasy,Sci-Fi,Western",53.0,20,65,13
+608,Kid Nation,2007-09-01,TV-PG,Reality-TV,53.0,28,0,2
+609,Filthy Rich,2020-09-21,TV-14,Drama,54.0,14,0,3
+610,3rd Rock from the Sun,1996-01-09,TV-PG,"Comedy,Family,Sci-Fi",53.0,27,86,76
+611,8 Simple Rules,2002-09-17,TV-PG,"Comedy,Drama",53.0,28,71,25
+612,"Beverly Hills, 90210",1990-10-04,TV-14,"Drama,Romance",53.0,13,77,83
+613,Haven,2010-07-09,TV-PG,"Crime,Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",53.0,22,79,235
+614,Legend of the Seeker,2008,TV-14,"Action,Adventure,Drama,Fantasy",53.0,14,73,74
+615,Killing Jesus,2015-03-29,,"Biography,Drama,History",53.0,12,0,0
+616,The Goldbergs,2013-09-24,TV-PG,Comedy,53.0,27,79,247
+617,Numb3rs,2005,TV-PG,"Crime,Drama,Mystery,Thriller",53.0,24,75,24
+618,Out of Practice,2005-09,,Comedy,53.0,24,18,5
+619,The Sound of Music Live!,2013-12-05,TV-PG,"Biography,Drama,Family,History,Musical,Romance",52.0,11,0,1
+620,The Originals,2013-10-03,TV-14,"Drama,Fantasy,Horror,Mystery",52.0,16,81,407
+621,The Path to 9/11,2006-09-10,,"Drama,History",52.0,18,0,1
+622,Frontier,2016-11-06,TV-MA,"Adventure,Drama,History,Western",52.0,11,65,75
+623,Drive,2007,TV-14,"Action,Adventure,Crime,Drama,Mystery,Thriller",52.0,54,7,14
+624,Conversations With a Killer: The Ted Bundy Tapes,2019-01-24,TV-MA,"Documentary,Biography,Crime",52.0,8,68,44
+625,Texas Rising,2015-05-25,TV-14,"Drama,History,Western",52.0,12,34,48
+626,Hell's Kitchen,2005-05-30,TV-G,"Game-Show,Reality-TV",52.0,12,72,51
+627,Brothers & Sisters,2006-09-24,TV-PG,Drama,51.0,55,75,70
+628,A Million Little Things,2018-09-26,TV-14,"Comedy,Drama,Romance",51.0,18,75,54
+629,Heist,2006-03-22,TV-14,"Action,Crime,Drama",51.0,22,0,0
+630,Houdini,2014-09-01,TV-14,"Biography,Drama",51.0,16,72,34
+631,Titanic,2012,TV-PG,"Drama,History",51.0,10,36,17
+632,seaQuest DSV,1993-09-12,TV-PG,"Action,Adventure,Family,Sci-Fi",51.0,11,82,15
+633,NCIS,2003-09-03,TV-14,"Action,Crime,Drama,Mystery,Thriller",51.0,23,75,464
+634,Family Matters,1989-09-22,TV-G,"Adventure,Comedy,Drama,Family,Sci-Fi",51.0,9,73,32
+635,Star Trek: The Next Generation,1987-09-26,TV-PG,"Action,Adventure,Drama,Sci-Fi",51.0,8,86,490
+636,Dolly Parton's Christmas of Many Colors: Circle of Love,2016-11-30,TV-G,"Drama,Family",50.0,8,0,1
+637,Wolf Lake,2001,,Horror,50.0,15,0,2
+638,The Kennedys,2011-04-03,TV-14,"Drama,History,Romance",50.0,24,66,22
+639,The Commish,1991-09-28,TV-14,"Comedy,Crime,Drama,Mystery",50.0,11,62,5
+640,The Millers,2013-10-03,TV-PG,Comedy,49.0,26,45,53
+641,The Exes,2011-11-30,TV-PG,Comedy,49.0,14,62,36
+642,Stargate SG-1,1997-07-27,TV-14,"Action,Adventure,Drama,Sci-Fi",48.0,8,85,398
+643,The Tonight Show with Jay Leno,1992-05-25,TV-14,"Comedy,Music,Talk-Show",48.0,9,36,38
+644,Deal or No Deal,2005-12-19,TV-PG,"Family,Game-Show",48.0,11,57,21
+645,Late Night with Jimmy Fallon,2009-03-02,TV-14,"Comedy,Music,Talk-Show",48.0,26,66,52
+646,The Magnificent Seven,1998-01-03,TV-14,"Action,Drama,Western",48.0,22,0,2
+647,Harry's Law,2011-01-17,,"Comedy,Crime,Drama,Mystery",48.0,21,72,57
+648,Retired at 35,2011-01-19,TV-PG,Comedy,48.0,11,50,12
+649,Wahlburgers,2014-01-22,TV-PG,Reality-TV,47.0,8,37,11
+650,Gary Unmarried,2008-09-24,TV-14,Comedy,47.0,42,61,7
+651,Fahrenheit 451,2018-05-20,TV-14,"Drama,Sci-Fi,Thriller",47.0,19,52,19
+652,Criminal Minds,2005-09-21,TV-14,"Crime,Drama,Mystery,Thriller",46.0,52,76,565
+653,Stephen King's Desperation,2006-10-09,TV-14,"Drama,Fantasy,Horror,Mystery,Thriller",46.0,12,0,1
+654,The Dovekeepers,2015-03-31,TV-14,"Drama,Romance",46.0,13,43,8
+655,"Walker, Texas Ranger",1993-04-21,TV-14,"Action,Adventure,Crime,Drama,Western",45.0,7,59,51
+656,The Prisoner,2009-11-15,,"Drama,Sci-Fi,Thriller",45.0,21,48,11
+657,George Lopez,2002-03-27,TV-PG,"Comedy,Drama",45.0,27,76,22
+658,The Bible ,2013,TV-14,"Action,Drama,War",45.0,13,45,65
+659,Anna Nicole,2013-06-29,TV-14,"Biography,Drama",45.0,10,0,0
+660,Hemlock Grove,2013-04-18,TV-MA,"Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",44.0,22,74,318
+661,The Love Boat,1977-05-05,TV-G,"Comedy,Drama,Romance",43.0,9,68,5
+662,TekWar,1994-12-22,TV-14,"Crime,Sci-Fi",43.0,8,0,1
+663,American Dad!,2005-02-06,TV-14,"Animation,Comedy",43.0,22,77,530
+664,The Neighbors,2012-09-26,TV-PG,"Comedy,Family,Romance,Sci-Fi",42.0,23,61,90
+665,The Cleaner,2008-07-15,TV-14,Drama,41.0,30,0,1
+666,The Andromeda Strain,2008-05-11,,"Drama,Mystery,Sci-Fi,Thriller",41.0,18,62,20
+667,My Big Fat Greek Life,2003-02-24,TV-PG,Comedy,40.0,13,0,0
+668,E-Ring,2005-09-21,,"Action,Drama,Thriller",39.0,23,20,8
+669,Surface,2005-09-19,TV-14,"Adventure,Drama,Mystery,Sci-Fi,Thriller",39.0,23,43,25
+670,Nashville,2007-09-14,,Reality-TV,38.0,13,0,3
+671,The Ten Commandments,2006-04-10,TV-14,Drama,39.0,18,0,2
+672,Standoff,2006,TV-14,"Crime,Drama,Romance,Thriller",37.0,20,0,3
+673,The Orville,2017-09-10,TV-14,"Adventure,Comedy,Sci-Fi",36.0,23,83,1368
+674,The Masked Singer,2019-01-01,TV-PG,"Family,Music,Reality-TV",36.0,10,43,48
+675,Fuller House,2016-02-26,TV-PG,"Comedy,Drama,Family",35.0,28,63,301
+676,Dinotopia,2002-11-05,,"Adventure,Family,Fantasy,Romance,Sci-Fi",35.0,23,0,3
+677,High Society,2010-03-10,,Reality-TV,34.0,12,0,0
+678,So You Think You Can Dance,2005,TV-PG,"Music,Reality-TV",31.0,8,65,70
+679,Charlie's Angels,2011-09-22,TV-14,"Action,Adventure,Crime,Drama,Mystery",30.0,22,31,64
+680,Ghost Whisperer,2005-09-23,TV-PG,"Drama,Fantasy",29.0,40,69,74
+681,Rules of Engagement,2007-02-03,TV-PG,"Comedy,Romance",28.0,54,65,111
+682,Liz & Dick,2012-11-25,TV-14,"Biography,Drama,Romance",26.0,27,0,0
+683,Knight Rider,2008-02-17,TV-14,"Adventure,Drama,Fantasy,Mystery,Thriller",21.0,20,59,27
+684,Category 7: The End of the World,2005-11-06,TV-PG,"Action,Adventure,Drama,Sci-Fi,Thriller",18.0,11,42,5
+685,"Tsunami, The Aftermath",2006,TV-MA,Drama,,20,0,1
+686,Saturday Night Live,1975-10-11,TV-PG,"Comedy,Music",,8,65,177
+687,Hill Street Blues,1981-01-15,TV-14,"Crime,Drama,Mystery",,9,92,15
